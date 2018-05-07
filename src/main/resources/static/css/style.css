@@ -1,0 +1,18 @@
+@import "../bootstrap/css/bootstrap.css";
+
+
+body {
+    background-color: rgba(68, 68, 68, 0.49);
+}
+
+.container {
+    margin-left: 2%;
+    padding-left: 2%;
+    color: rgba(223, 240, 109, 0.67);
+    /*text-shadow: 2px 2px 3px #36fffc;*/
+}
+
+.project_pane {
+    width: 80%;
+    color: #0f0f0f;
+}
